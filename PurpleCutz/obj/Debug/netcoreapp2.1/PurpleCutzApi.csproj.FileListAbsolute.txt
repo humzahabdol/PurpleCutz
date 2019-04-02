@@ -1,0 +1,17 @@
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutzApi.deps.json
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutzApi.runtimeconfig.json
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutzApi.runtimeconfig.dev.json
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutzApi.dll
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutz.Entities.dll
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutz.Entities.pdb
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.csprojAssemblyReference.cache
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.csproj.CoreCompileInputs.cache
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.RazorAssemblyInfo.cache
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.RazorAssemblyInfo.cs
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.AssemblyInfoInputs.cache
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.AssemblyInfo.cs
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.RazorTargetAssemblyInfo.cache
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.csproj.CopyComplete
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\bin\Debug\netcoreapp2.1\PurpleCutzApi.pdb
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.dll
+C:\Users\habdol\source\repos\PurpleCutz\PurpleCutz\obj\Debug\netcoreapp2.1\PurpleCutzApi.pdb
