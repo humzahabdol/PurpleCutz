@@ -1,9 +1,0 @@
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\bin\Release\netcoreapp2.1\PurpleCutz.Entities.deps.json
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\bin\Release\netcoreapp2.1\PurpleCutz.Entities.dll
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\bin\Release\netcoreapp2.1\PurpleCutz.Entities.pdb
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.csprojAssemblyReference.cache
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.csproj.CoreCompileInputs.cache
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.AssemblyInfoInputs.cache
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.AssemblyInfo.cs
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.dll
-Y:\Source\Github\purplecutz\PurpleCutz.Entities\obj\Release\netcoreapp2.1\PurpleCutz.Entities.pdb
