@@ -38,9 +38,8 @@ namespace PurpleCutz
             services.AddDbContext<PurpleCutzContext>(options =>
                 options.UseSqlServer(Configuration["ConnectionString:PurpleCutzDb"]));
 
-            services.AddScoped<IDataRepository<Schedule>, ScheduleRepository>();
-            services.AddScoped<IDataRepository<Appointment>, AppointmentRepository>();
-
+            services.AddSingleton<IDataRepository<Schedule>, ScheduleRepository>();
+            services.AddSingleton<IDataRepository<Appointment>, AppointmentRepository>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
