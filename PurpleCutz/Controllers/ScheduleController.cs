@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using PurpleCutz.Entities;
 using PurpleCutzApi.DataAccessLayer;
@@ -29,7 +25,7 @@ namespace PurpleCutzApi.Controllers
         }
 
         // GET: api/Schedule/5
-        [HttpGet("{id}",Name = "Get")]
+        [HttpGet("{id}")]
         public IActionResult Get(long id)
         {
             Schedule schedule = _dataRepository.Get(id);
@@ -73,7 +69,7 @@ namespace PurpleCutzApi.Controllers
                 return NotFound("The schedule record couldn't be found.");
             }
 
-            _dataRepository.Update(schedule);
+            _dataRepository.Update(scheduleToUpdate,schedule);
             return NoContent();
         }
 

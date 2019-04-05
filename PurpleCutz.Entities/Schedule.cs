@@ -10,8 +10,6 @@ namespace PurpleCutz.Entities
         [Key]
         public int ScheduleId { get; set; }
         [Required]
-        public int BarberId { get; set; }
-        [Required]
         public DateTime Start_Time { get; set; }
         [Required]
         public DateTime End_Time { get; set; }

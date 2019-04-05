@@ -19,13 +19,44 @@ namespace PurpleCutz.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("PurpleCutz.Entities.Appointment", b =>
+                {
+                    b.Property<int>("AppointmentId")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("BarberId");
+
+                    b.Property<int>("ClientId");
+
+                    b.Property<DateTime>("Date_Created");
+
+                    b.Property<DateTime>("End_Time");
+
+                    b.Property<DateTime>("End_Time_Expected");
+
+                    b.Property<string>("FirstName")
+                        .IsRequired();
+
+                    b.Property<string>("LastName")
+                        .IsRequired();
+
+                    b.Property<int>("PhoneNumber");
+
+                    b.Property<int>("Price");
+
+                    b.Property<DateTime>("Start_Time");
+
+                    b.HasKey("AppointmentId");
+
+                    b.ToTable("Appointments");
+                });
+
             modelBuilder.Entity("PurpleCutz.Entities.Schedule", b =>
                 {
                     b.Property<int>("ScheduleId")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("BarberId");
 
                     b.Property<DateTime>("End_Time");
 
