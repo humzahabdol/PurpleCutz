@@ -1,0 +1,3 @@
+rootProject.name = 'PurpleCutzMobile'
+
+include ':app'
